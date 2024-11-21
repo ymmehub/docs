@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [['link', { rel: 'icon', href: '/ymme.png' }]],
+  head: [['link', { rel: 'icon', href: 'icon/ymme.png' }]],
   title: "YMME Hub",
   description: "GitHub Releasesに戻りたい？",
   themeConfig: {

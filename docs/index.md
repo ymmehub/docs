@@ -8,7 +8,7 @@ hero:
   text: "GitHubのReleasesに戻りたい？"
   tagline: YMMのプラグインを簡単に公開できるストアー。
   image:
-    src: ymme.png
+    src: icon/ymme.png
     alt: YMME Hub
   actions:
     - theme: brand
