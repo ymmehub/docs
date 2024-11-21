@@ -8,12 +8,12 @@ hero:
   text: "GitHubのReleasesに戻りたい？"
   tagline: YMMのプラグインを簡単に公開できるストアー。
   image:
-    src: /ymme.png
+    src: ymme.png
     alt: YMME Hub
   actions:
     - theme: brand
       text: アップロードの手順を閲覧する
-      link: /guide/upload-guide
+      link: guide/upload-guide
     - theme: brand
       text: YMME Hubを開く
       link: https://ymmehub.github.io
