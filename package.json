@@ -1,0 +1,20 @@
+{
+  "name": "ymmedocs",
+  "version": "1.0.0",
+  "description": "YMME Hub Documentation",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "YMME",
+    "Hub"
+  ],
+  "author": "Org YMME Hub (RainKasa)",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  }
+}
