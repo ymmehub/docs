@@ -66,7 +66,7 @@ ymmehub.github.io.git
 ・
 ・
 ┠json┓
-┃    ┠plugins.json(※この中のplugins配列の中にもjsonの内容を入れてください)
+┃    ┠plugins.json(※このJSONの中の配列に1字1句間違えずにIDを入れてください)
 ┃    ・
 ┃    ・
 ┃    ・
