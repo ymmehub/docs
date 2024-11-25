@@ -31,5 +31,4 @@ export default defineConfig({
       copyright: 'Copyright © 2024 Org YMM(e) Hub'
     }
   },
-  base: "/"
 })
