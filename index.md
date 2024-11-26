@@ -16,7 +16,7 @@ hero:
       link: guide/upload-guide
     - theme: brand
       text: YMME Hubを開く
-      link: https://ymmehub.github.io
+      link: https://ymme.f5.si
     - theme: alt
       text: GitHub
       link: https://github.com/ymmehub/ymmehub.github.io
