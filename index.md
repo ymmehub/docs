@@ -26,8 +26,8 @@ features:
       title: 英語がわからなくてもOK
       details: GitHubやJenkinsと違って日本語化されているので、直感的に操作できます。
     - icon: 🏃
-      title: 軽量な静的動作
-      details: PHPなどを利用せず作られているので、軽量に動きます。
+      title: 軽量な動作
+      details: PHPなどを利用せずJavascriptOnlyで作られているので、軽量に動きます。
     - icon: ⏫️
       title: 簡単な操作でアップロード
       details: jsonの知識とhtmlの知識がちょっとだけあれば簡単に作成できちゃいます(設定用jsonジェネレータも作成中)

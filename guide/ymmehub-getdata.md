@@ -8,7 +8,7 @@ YMME Hubにアップロードされているプロジェクトを取得する際
 ::: tip
 この記事のコードではjQueryを利用しています。
 :::
-[ここ](https://ymmehub.github.io/json/plugins.json)にあります。サンプル:
+[ここ](https://ymme.f5.si/json/plugins.json)にあります。サンプル:
 ```javascript
 // use jquery
 $.getJSON("https://ymmehub.github.io/json/plugins.json", (data) => {
@@ -39,4 +39,4 @@ $.getJSON("https://ymmehub.github.io/json/plugins.json", (data) => {
                 `);
 ```
 ## プラグイン単体の取得方法
-```ymmehub.github.io/json/(プロジェクトのid).json```にあります。[プラグイン一覧の取得方法](#プラグイン一覧の取得方法)とかからIDを引っ張り出して使ってください。
+```ymme.f5.si/json/(プロジェクトのid).json```にあります。[プラグイン一覧の取得方法](#プラグイン一覧の取得方法)とかからIDを引っ張り出して使ってください。

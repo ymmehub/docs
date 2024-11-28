@@ -4,7 +4,7 @@ outline: deep
 
 # アップロードガイドへようこそ
 
-このページは[YMME Hub](https://ymmehub.github.io)にプラグイン(.ymmeファイル)をアップロードする手順を説明するサイトです。一応Discordサーバーにも書いてあります。
+このページは[YMME Hub](https://ymme.f5.si)にプラグイン(.ymmeファイル)をアップロードする手順を説明するサイトです。一応Discordサーバーにも書いてあります。
 
 ## まず最初に準備するもの
 - ymmeファイル(必須)
